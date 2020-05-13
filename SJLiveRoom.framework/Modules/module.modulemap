@@ -1,0 +1,6 @@
+framework module SJLiveRoom {
+  umbrella header "SJLiveRoom.h"
+
+  export *
+  module * { export * }
+}
