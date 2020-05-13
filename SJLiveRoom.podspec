@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.dependency 'MJRefresh' , '~> 3.2.0'
   s.dependency 'Masonry', '1.1.0'
   s.dependency 'MJExtension'
-  s.dependency 'Toast', '~> 3.0'SJLiveRoom
+  s.dependency 'Toast', '~> 3.0'
   s.dependency 'CocoaLumberjack'
   s.dependency 'YYText', '~> 1.0.7'
   s.dependency 'SVGAPlayer'

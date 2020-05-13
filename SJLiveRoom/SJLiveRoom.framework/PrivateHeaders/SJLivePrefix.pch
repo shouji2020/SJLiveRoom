@@ -1,0 +1,26 @@
+//
+//  SJLivePrefix.pch
+//  SJLiveRoom
+//
+//  Created by 李金柱 on 2020/5/7.
+//  Copyright © 2020 yoka. All rights reserved.
+//
+
+#ifndef SJLivePrefix_pch
+#define SJLivePrefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+
+#import "SJLiveDefine.h"
+#import "SJLiveDependecy.h"
+#import "SJLiveMacro.h"
+#import "SJLiveRefDefine.h"
+
+#endif
+
+#endif /* SJLivePrefix_pch */
