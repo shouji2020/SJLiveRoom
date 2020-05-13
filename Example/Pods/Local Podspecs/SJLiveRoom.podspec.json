@@ -1,0 +1,22 @@
+{
+  "name": "SJLiveRoom",
+  "version": "0.1.0",
+  "summary": "A short description of SJLiveRoom.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/shouji2020/SJLiveRoom",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "shouji2020": "lijinzhu@dobest.com"
+  },
+  "source": {
+    "git": "https://github.com/shouji2020/SJLiveRoom.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SJLiveRoom/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SJLiveRoom (0.1.0)
+
+DEPENDENCIES:
+  - SJLiveRoom (from `../`)
+
+EXTERNAL SOURCES:
+  SJLiveRoom:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SJLiveRoom: 432c5bbc5d4b79268bd572fe138ecbfa542b42ab
+
+PODFILE CHECKSUM: af8d6cf1c8974e647a45ed1eda215227b1c1ffa3
+
+COCOAPODS: 1.7.1
