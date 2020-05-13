@@ -8,12 +8,12 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/shouji2020/SJLiveRoom'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'lijinzhu' => 'lijinzhu@dobest.com' }
-  s.source           = { :git => 'https://github.com/shouji2020/SJLiveRoom.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/shouji2020/SJLiveRoom.git', :tag => s.version}
 
   s.ios.deployment_target = '9.0'
 
   s.source_files = 'SJLiveRoom/*'
-  s.resource_bundles = 'SJLiveRoom/SJLiveBundle.bundle'
+  s.resource = 'SJLiveRoom/SJLiveBundle.bundle'
   s.vendored_frameworks = 'SJLiveRoom/*.framework'
 
   # s.frameworks = 'UIKit', 'MapKit'
